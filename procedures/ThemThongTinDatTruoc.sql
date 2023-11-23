@@ -48,6 +48,6 @@ BEGIN
         '&p_cccd',
         '&p_maphong',
         '&p_CHECKINDATE',
-        '&p_songayo'
+        &p_songayo
     );
 end;
